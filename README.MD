@@ -1,9 +1,9 @@
-### Hello
+### Welcome
 
 ```bash
 #!/bin/bash
 
-echo 'Welcome, I was learned BASH SCRIPT from here!'
+echo 'Hi, I was learned BASH SCRIPT from here!'
 ```
 
 ### Reference:
