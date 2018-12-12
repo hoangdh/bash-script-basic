@@ -1,3 +1,11 @@
+### Hello
+
+```bash
+#!/bin/bash
+
+echo 'Welcome, I was learned BASH SCRIPT from here!'
+```
+
 ### Reference:
 - https://devhints.io/bash
 - https://www.macs.hw.ac.uk/~hwloidl/Courses/LinuxIntro/t1.html
