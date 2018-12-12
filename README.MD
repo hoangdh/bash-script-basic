@@ -3,7 +3,7 @@
 ```bash
 #!/bin/bash
 
-echo 'Hi, I was learned BASH SCRIPT from here!'
+echo 'Hi, I was learned BASH SCRIPT in there!'
 ```
 
 ### Reference:
