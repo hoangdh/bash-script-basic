@@ -2,8 +2,9 @@
 
 ```bash
 #!/bin/bash
-
+NAME='Hoang'
 echo 'Hi, I was learned BASH SCRIPT in there!'
+echo "I'm $NAME"
 ```
 
 ### Reference:
