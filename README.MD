@@ -15,3 +15,6 @@ echo "I'm $NAME"
 - http://matt.might.net/articles/bash-by-example/
 - https://www.shellscript.sh/index.html
 
+### Debug:
+- https://www.peterbe.com/plog/set-ex
+
