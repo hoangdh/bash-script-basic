@@ -17,4 +17,4 @@ echo "I'm $NAME"
 
 ### Debug:
 - https://www.peterbe.com/plog/set-ex
-
+- https://kvz.io/blog/2013/11/21/bash-best-practices/
