@@ -7,6 +7,9 @@ echo 'Hi, I was learned BASH SCRIPT in here!'
 echo "I'm $NAME"
 ```
 
+Some own script: https://gist.github.com/hoangdh
+** Get it, if you find it helpful. **
+
 ### Reference:
 - https://devhints.io/bash
 - https://www.macs.hw.ac.uk/~hwloidl/Courses/LinuxIntro/t1.html
