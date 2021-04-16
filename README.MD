@@ -3,7 +3,7 @@
 ```bash
 #!/bin/bash
 NAME='Hoang'
-echo 'Hi, I was learned BASH SCRIPT in there!'
+echo 'Hi, I was learned BASH SCRIPT in here!'
 echo "I'm $NAME"
 ```
 
