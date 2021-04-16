@@ -9,7 +9,7 @@ echo "I'm $NAME"
 
 Some own script: https://gist.github.com/hoangdh
 
-**Get it, if you find it helpful.**
+**Get it, if you feel it's helpful.**
 
 ### Reference:
 - https://devhints.io/bash
